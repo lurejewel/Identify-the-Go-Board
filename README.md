@@ -14,11 +14,13 @@ Preparation for RoboCup@Home Shaoxing 2020 OPL Final. A small task aiming at a 1
 
 ## Result
 Chess:
-![chess](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/chess.jpg)
+![chess](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/Origin.jpg)
+
 Lines:
 ![lines](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/lines.jpg)
+
 intersections:
-![intersections](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/intercestions.jpg)
+![intersections](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/intersections.jpg)
 
 ## Attentions & Shortcomings:
 * Sensitive to noise; Low robustness. High image quality needed. Adjust the viariance of Gaussian Filter (sigma) according to the condition.
