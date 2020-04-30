@@ -14,12 +14,15 @@ Preparation for RoboCup@Home Shaoxing 2020 OPL Final. A small task aiming at a 1
 
 ## Result
 Chess:
+
 ![chess](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/Origin.jpg)
 
 Lines:
+
 ![lines](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/lines.jpg)
 
-intersections:
+Intersections:
+
 ![intersections](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/intersections.jpg)
 
 ## Attentions & Shortcomings:
