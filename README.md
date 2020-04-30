@@ -12,6 +12,14 @@ Preparation for RoboCup@Home Shaoxing 2020 OPL Final. A small task aiming at a 1
 * ulteriorly merge the lines that are very close to each other
 * draw the lines and the intersections
 
+## Result
+Chess:
+![chess](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/chess.jpg)
+Lines:
+![lines](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/lines.jpg)
+intersections:
+![intersections](https://github.com/lurejewel/Identify-the-Go-Board/blob/master/intercestions.jpg)
+
 ## Attentions & Shortcomings:
 * Sensitive to noise; Low robustness. High image quality needed. Adjust the viariance of Gaussian Filter (sigma) according to the condition.
 * Keep the lines as horizontal and vertical as posisble. Because the program assumes that the slope of lines are either ∞ or zero.
